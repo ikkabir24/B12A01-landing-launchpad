@@ -128,5 +128,10 @@ nav {
 .image-others {
     display: flex;
 }
+/* Ready to focus better */
+.ready-t-f-b {
+    
+    text-align: center;
+}
 
 
