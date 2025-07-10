@@ -11,6 +11,17 @@
     color: #4E47FF;
 }
 
+.section-title {
+    font-size: 42px;
+    font-weight: bold;
+    color: #252432;
+}
+
+.section-description {
+    font-size: 24;
+    color: rgba(0, 0, 0, 0.5)
+}
+
 .btn-primary {
     background-color: #4E47FF;
     font-weight: bold;
@@ -24,8 +35,8 @@
 /* header */
 .header {
     background-image: url(/Assets/Hero-bg.png);
-    width: 1440px;
-    height: 600px;
+    /* width: 1440px;
+    height: 600px; */
 }
 
 /* nav styles */
@@ -46,4 +57,14 @@ nav {
     font-weight: bold;
     font-size: 65px;
     text-align: center;
+}
+
+/* action box */
+.action-box {
+    display: flex;
+    padding: 116px 140px;
+    justify-content: space-around;
+}
+.action-image {
+    border-radius: 40px;
 }
