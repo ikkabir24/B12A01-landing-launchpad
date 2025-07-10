@@ -205,3 +205,12 @@ input[type="text"] {
     gap: 48px;
     justify-content: center;
 }
+.btn-primary:hover {
+    background-color: #1009cf;
+    font-weight: bold;
+    color: #FFFFFF;
+    padding: 15px 38px;
+    border-radius: 5px;
+    font-size: 16px;
+    border: none;
+}
